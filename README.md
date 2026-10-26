@@ -64,8 +64,6 @@ I respect clean code, but my real focus is on velocity, operational leverage, an
 - **Vice President (ex-Head of Design) @ Livewires (Jan 2024 – Mar 2026):** Promoted from design contributor to Head of Design to VP within 14 months; steered club operations, led cross-functional student teams, and directed visual branding for university-wide initiatives.
 - **Track Lead & Youth Ambassador (SDG 04) @ SRMIST (Dec 2024 & Dec 2025):** Orchestrated physical symposium logistics for **3,000+ attendees** and co-managed **350+ volunteers**. Built a custom certification generator to automate volunteer credential distribution; pitched and closed 3 corporate sponsors for Hackfinity 1.0.
 - **Product Designer & Strategist @ Curious Bees (Feb 2024 – Dec 2024):** Co-led ground-up platform design, conducted teacher and user interviews to validate assumptions, and bridged technical requirements to Go-To-Market (GTM) strategy.
-- **Founder’s Office @ Ticket9:** Mapped internal operational bottlenecks across cross-functional teams, diagnosed process lag, and streamlined internal workflows.
-- **Fintech Payment Flows @ IppoPay:** Designed frictionless checkout transaction flows, minimizing cognitive load and drop-offs at the payment gateway.
 
 ---
 
