@@ -26,7 +26,7 @@
 
 Welcome to the corner of GitHub where code is written to solve real operational bottlenecks, not just collect green squares.
 
-I operate at the high-velocity intersection of **Product Strategy**, **Technical Execution**, and **Startup Operations** as an aspiring **Founder's Office Associate**. I am completing my BCA degree (SRMIST, Class of 2026) and built full-stack developer tools, browser extensions, and web applications along the way.
+I operate at the high-velocity intersection of **Product Strategy**, **Technical Execution**, and **Startup Operations** as an aspiring **Founder's Office Associate**. I am completing my BCA degree (SRMIST, Class of 2026) and built full-stack developer tools, autonomous AI executive agents, browser extensions, and web applications along the way.
 
 Why does someone aiming for the Founder's Office engineer full-stack systems?
 
@@ -51,6 +51,7 @@ I respect clean code, but my real focus is on velocity, operational leverage, an
 
 | Project | What It Is & Why It Was Built | Tech Stack |
 | :--- | :--- | :--- |
+| **[Hope](https://github.com/AlexBrighten/Hope)** | **Autonomous Personal Executive AI Agent.** Built on a Dual-Brain architecture (Cloud Gemini + Edge Ollama) to eliminate executive operational drag. Operates over 43 FastMCP tools (Gmail, Calendar, GitHub, Docs, Sheets, Puppeteer) with a zero-cost mobile PWA and 1-click lock-screen approvals. | `FastMCP` • `Gemini API` • `Ollama` • `Puppeteer` • `PWA` |
 | **[JobPulse](https://github.com/AlexBrighten/JobPulse)** | **Privacy-First Chrome Extension + Web Dashboard.** Built because updating job applications in spreadsheets was an operational failure. Features real-time Cloud Firestore sync, private local IndexedDB resume storage, toolbar auto-scraping, and A/B variant callback analytics. | `Manifest V3` • `Cloud Firestore` • `IndexedDB` • `Next.js` |
 | **[Spidey Tracker](https://github.com/AlexBrighten/Alex-Spidey-Tracker-)** | **Deep Work & Focus PWA.** Built to combat browser throttling and distracted tab switching. Features a drift-free background timer powered by Web Worker blobs, visibility-change auto-abort, and cross-platform Service Worker alerts. | `React 18` • `Vite` • `Web Workers` • `PWA` |
 | **[Celtrix](https://github.com/celtrix-os/Celtrix)** | **Zero-Config App Scaffolder (170+ ⭐ / 70+ 🍴).** Published npm CLI (`npx celtrix`) built because developer environment setup should take 30 seconds, not half a sprint. Supports MERN, MEAN, MEVN, Next.js, and Hono stacks. | `npm Package` • `Node.js CLI` • `Full-Stack Scaffolder` |
@@ -72,15 +73,17 @@ I respect clean code, but my real focus is on velocity, operational leverage, an
 I don't push production code daily—I use these tools to prototype MVPs in hours, validate UX assumptions, and audit architectural tradeoffs:
 
 - **Product & Strategy:** Market Research, Competitive Teardowns, PRDs & User Stories, RICE Prioritization, User Journey Mapping, Figma
+- **AI & Autonomous Agents:** Google Gemini API, Local Edge LLMs (Ollama), FastMCP (Model Context Protocol), Multi-Brain Routing, Human-in-the-Loop Safeguards
 - **Rapid Prototyping:** React.js, Next.js, TypeScript, Tailwind CSS, Chrome Extensions (Manifest V3), VS Code Extension API
-- **Backend & Data:** Node.js, Express, RESTful APIs, Cloud Firestore, MongoDB, IndexedDB, Web Workers
-- **Automation & Operations:** Playwright *(chore automation & testing)*, Custom CLI scripts, GitHub Actions, Notion & Linear workflows
+- **Backend & Data:** Python, FastAPI, Node.js, Express, RESTful APIs, Cloud Firestore, MongoDB, IndexedDB, Web Workers
+- **Automation & Operations:** Puppeteer & Playwright *(browser automation)*, Custom CLI scripts, GitHub Actions, Notion & Linear workflows
 
 ---
 
 ### 💬 Talk to Me About
 
 - Zero-to-one startup execution and eliminating operational bottlenecks.
+- Autonomous personal executive AI agents and dual-brain edge routing (Cloud + Local LLMs).
 - Why your MVP probably doesn't need Kubernetes or an over-engineered backend.
 - How to automate repetitive workflows to save 10+ hours a week without hiring.
 - Balancing UX polish against engineering sprint velocity.
